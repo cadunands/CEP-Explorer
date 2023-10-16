@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CEP Explorer</string>
+    <string name="title_activity_tela_principal">TelaPrincipal</string>
+    <string name="welcome">Bem Vindo</string>
+    <string name="search_button">Buscar</string>
+    <string name="CEP">CEP</string>
+    <string name="type_here">Digite o CEP aqui:</string>
+    <string name="start_button">Começar</string>
+    <string name="text_welcome">Nós vamos te ajudar a achar a rua pelo CEP!</string>
+
+    <!--Forms -->
+    <string name="street">Rua</string>
+    <string name="neighborhood">Bairro</string>
+    <string name="state">Estado</string>
+    <string name="uf">UF</string>
+
+    <string name="exit">Sair</string>
+
+
+
+
+</resources>
